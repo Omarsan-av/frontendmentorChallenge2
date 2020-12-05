@@ -161,3 +161,6 @@ body
 {
    border: 2px solid #7541c8;
 }
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
